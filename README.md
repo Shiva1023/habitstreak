@@ -1,1 +1,1 @@
-# habitstreak
+## Habit Streaker Application
